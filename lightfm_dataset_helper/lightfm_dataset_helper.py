@@ -1,7 +1,7 @@
 """Main module."""
 
-from Preprocessor import Preprocessor
 from lightfm.data import Dataset
+from lightfm_dataset_helper.Preprocessor import Preprocessor
 
 
 class DatasetHelper(Preprocessor):
