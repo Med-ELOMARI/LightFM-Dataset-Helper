@@ -1,7 +1,7 @@
 import pandas as pd
 from lightfm import LightFM
 
-from lightfm_dataset_helper.tools import DatasetHelper
+from lightfm_dataset_helper.lightfm_dataset_helper import DatasetHelper
 
 
 def read_csv(filename):
