@@ -2,6 +2,8 @@
 
 [![image](https://img.shields.io/pypi/v/lightfm_dataset_helper.svg)](https://pypi.python.org/pypi/lightfm_dataset_helper) [![image](https://travis-ci.com/Med-ELOMARI/LightFM-Dataset-Helper.svg?branch=master)](https://travis-ci.com/Med-ELOMARI/LightFM-Dataset-Helper) [![DocumentationStatus](https://readthedocs.org/projects/lightfm-dataset-helper/badge/?version=latest)](https://lightfm-dataset-helper.readthedocs.io/en/latest/?badge=latest)
 
+
+![lightfmdh](https://user-images.githubusercontent.com/11338137/82050582-a84d2b80-96b8-11ea-867e-e5e509bb0a35.png)
 a lightweight python package to help preparing Dataframes (csv ... ) for LightFM module for easy training Training
 
 [read the docs](https://lightfm-dataset-helper.readthedocs.io/en/latest/)
